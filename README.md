@@ -1,5 +1,5 @@
 # LocalCoinSwap
-The most popular non-custodial P2P fiat on-ramp
+:rocket: The most popular non-custodial P2P fiat on-ramp
 
 
 ## What is LocalCoinSwap?
@@ -34,13 +34,14 @@ The layer 1 implementation must be open-source, and publicly verifiable by all p
 
 Our current Blockchain-layer integrations are documented here:
 
-Bitcoin:
+**Bitcoin:**  
 https://github.com/LocalCoinSwap/bitcoin-trading-scripts
 
-Kusama:
+**Kusama:**  
 https://github.com/LocalCoinSwap/kusama-multisig-implementation
 
-Ethereum smart contracts are publicly verifiable on Etherscan during trading, but a v2 release is pending.
+**Ethereum**  
+Ethereum smart contracts are publicly verifiable on Etherscan during trading, but a (v2) release is currently close to launch.
 
 
 ### Layer 2. API
@@ -49,10 +50,10 @@ This layer interfaces with the Blockchain layer to provide a level of persistenc
 
 Our API layer is publicly documented so that users can build their own interfaces on top of it if they wish, for example integrating automated trades in their own applications.
 
-You can view the surface interface of the API layer here:
+You can view the surface interface of the API layer here:  
 https://localcoinswap.com/api-docs/
 
-We are constantly improving the API layer, and also welcome user input. If you have any features you want on the API layer, or are confused about how to use it, just submit an issue on our open-source examples repo, and we’ll implement your use-case and/or show you how to integrate it in your chosen language:
+We are constantly improving the API layer, and also welcome user input. If you have any features you want on the API layer, or are confused about how to use it, just submit an issue on our open-source examples repo, and we’ll implement your use-case and/or show you how to integrate it in your chosen language:  
 https://github.com/LocalCoinSwap/api-examples
 
 
@@ -65,17 +66,17 @@ We are currently investigating different ways of distributing the application la
 
 ### Layer 4: Governance
 
-The governance of LocalCoinSwap centers around the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO. Our current implementation of LCS can be found here:
+The governance of LocalCoinSwap centers around the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO. Our current implementation of LCS can be found here:  
 https://github.com/LocalCoinSwap/governance-token
 
 
 
 ## LocalCoinSwap resources
 
-Platform: https://localcoinswap.com/ 
-Blog: https://blog.localcoinswap.com/ 
-Telegram: https://t.me/localcoinswap 
-Twitter: https://twitter.com/Localcoinswap_ 
-Facebook: https://www.facebook.com/localcoinswap 
-YouTube: https://www.youtube.com/channel/UCfUR13Y6dzv84EPG9uY1BUA 
-LinkedIn: https://www.linkedin.com/company/localcoinswap
+Platform: https://localcoinswap.com/  
+Blog: https://blog.localcoinswap.com/  
+Telegram: https://t.me/localcoinswap  
+Twitter: https://twitter.com/Localcoinswap_  
+Facebook: https://www.facebook.com/localcoinswap  
+YouTube: https://www.youtube.com/channel/UCfUR13Y6dzv84EPG9uY1BUA  
+LinkedIn: https://www.linkedin.com/company/localcoinswap 
