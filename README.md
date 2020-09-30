@@ -1,5 +1,5 @@
 # LocalCoinSwap
-:rocket: The most popular non-custodial P2P fiat on-ramp
+:rocket: :rocket: The most popular non-custodial P2P fiat on-ramp :rocket: :rocket:
 
 
 ## What is LocalCoinSwap?
