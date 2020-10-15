@@ -17,7 +17,7 @@ The governance of the system is driven a token model which shares the trade fees
 
 The LocalCoinSwap trading protocol consists of 3 layers: The Blockchain layer, the API layer, and the application (or dApp) layer. Each of these layers combine to form the overall user experience.
 
-The LocalCoinSwap governance protocol consists of a token, LCS. Holders of the LCS token can vote on key issues, and a regular percentage of the protocol revenue is given to holders in the form of buybacks. LocalCoinSwap is currently in the process of transitioning into a DAO.
+The LocalCoinSwap governance protocol consists of a token: LCS. Holders of the LCS token can vote on key issues, and a regular percentage of the protocol revenue is given to holders in the form of buybacks. LocalCoinSwap is currently in the process of transitioning into a DAO, and in the future will automate the process of on-chain buybacks.
 
 
 ### Layer 1. Blockchain
@@ -40,8 +40,8 @@ https://github.com/LocalCoinSwap/bitcoin-trading-scripts
 **Kusama:**  
 https://github.com/LocalCoinSwap/kusama-multisig-implementation
 
-**Ethereum**  
-Ethereum smart contracts are publicly verifiable on Etherscan during trading, but a (v2) release is currently close to launch.
+**Ethereum & ETH-based tokens**
+https://github.com/LocalCoinSwap/ethereum-token-contracts
 
 
 ### Layer 2. API
