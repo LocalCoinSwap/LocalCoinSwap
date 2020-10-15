@@ -40,7 +40,7 @@ https://github.com/LocalCoinSwap/bitcoin-trading-scripts
 **Kusama:**  
 https://github.com/LocalCoinSwap/kusama-multisig-implementation
 
-**Ethereum & ETH-based tokens**
+**Ethereum & ETH-based tokens**  
 https://github.com/LocalCoinSwap/ethereum-token-contracts
 
 
