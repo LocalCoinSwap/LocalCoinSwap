@@ -1,5 +1,5 @@
 # LocalCoinSwap
-:rocket: The most popular non-custodial P2P fiat on-ramp :rocket:
+The most popular non-custodial P2P fiat on-ramp :rocket:
 
 
 ## What is LocalCoinSwap?
@@ -17,7 +17,7 @@ The governance of the system is driven a token model which shares the trade fees
 
 The LocalCoinSwap trading protocol consists of 3 layers: The Blockchain layer, the API layer, and the application (or dApp) layer. Each of these layers combine to form the overall user experience.
 
-The LocalCoinSwap governance protocol consists of a token: LCS. Holders of the LCS token can vote on key issues, and a regular percentage of the protocol revenue is given to holders in the form of buybacks. LocalCoinSwap is currently in the process of transitioning into a DAO, and in the future will automate the process of on-chain buybacks.
+The LocalCoinSwap governance protocol consists of a token: LCS. Holders of the LCS token can vote on key issues, and a regular percentage of the protocol revenue is given to holders in the form of buybacks.
 
 
 ### Layer 1. Blockchain
@@ -26,11 +26,11 @@ The implementation of our protocol on this layer is different for every cryptocu
 
 Regardless of the exact implementation, our first layer solution always follows the same rules:
 
-Until a trade is completed, it must not be possible for the buyer or seller to move the cryptocurrency
-The crypto must never be in possession of LocalCoinSwap. In other words: we must never have the power or ability to take the funds of the trade for ourselves
-If the buyer and seller agree (for example the seller receives the cash payment, or the buyer agrees to cancel), the funds must travel only to the buyer or seller, and only after the trade is complete
-If the buyer and seller disagree, then LocalCoinSwap must be able to decide who is the rightful owner of the cryptocurrency.
-The layer 1 implementation must be open-source, and publicly verifiable by all parties
+- Until a trade is completed, it must not be possible for the buyer or seller to move the cryptocurrency
+- The crypto must never be in possession of LocalCoinSwap. In other words: we must never have the power or ability to take the funds of the trade for ourselves
+- If the buyer and seller agree (for example the seller receives the cash payment, or the buyer agrees to cancel), the funds must travel only to the buyer or seller, and only after the trade is complete
+- If the buyer and seller disagree, then LocalCoinSwap must be able to decide who is the rightful owner of the cryptocurrency.
+- The layer 1 implementation must be open-source, and publicly verifiable by all parties
 
 Our current Blockchain-layer integrations are documented here:
 
@@ -66,7 +66,7 @@ We are currently investigating different ways of distributing the application la
 
 ### Layer 4: Governance
 
-The governance of LocalCoinSwap centers around the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO. Our current implementation of LCS can be found here:  
+The governance of LocalCoinSwap centers around the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO in the future. Our current implementation of LCS can be found here:  
 https://github.com/LocalCoinSwap/governance-token
 
 
