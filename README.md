@@ -37,8 +37,8 @@ Our current Blockchain-layer integrations are documented here:
 **Bitcoin:**  
 https://github.com/LocalCoinSwap/bitcoin-trading-scripts
 
-**Kusama:**  
-https://github.com/LocalCoinSwap/kusama-multisig-implementation
+**Substrate (Polkadot & Kusama):**  
+https://github.com/LocalCoinSwap/substrate-multisig-reference
 
 **Ethereum & ETH-based tokens**  
 https://github.com/LocalCoinSwap/ethereum-token-contracts
@@ -66,7 +66,7 @@ We are currently investigating different ways of distributing the application la
 
 ### Layer 4: Governance
 
-The governance of LocalCoinSwap centers around the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO in the future. Our current implementation of LCS can be found here:  
+The governance of LocalCoinSwap centers around the LCS token. 20% of platform revenue is currently used to buy and burn the LCS token, and we are also investigating the launch of a LocalCoinSwap DAO in the future. Our current implementation of LCS can be found here:  
 https://github.com/LocalCoinSwap/governance-token
 
 
